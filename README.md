@@ -20,10 +20,10 @@ This is the mini greenhouse, it has two sensors, humidity and temperature, besid
 
 ## What have I used?
 * Pic 18f45k22
-*   Timer
-*   Pwm
-*   I/O digital sink
-*   I analog
+   * Timer
+   * Pwm
+   * I/O digital sink
+   * I analog
 * Lcd 4x20
 * 1 RGB led
 * 1 blue led
