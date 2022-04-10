@@ -4,6 +4,6 @@ Program focused on the bit configuration of the Pic18f45k22, this program measur
 
 ![circuit diagram](https://raw.githubusercontent.com/edson98lg/LCD_Pic18f45k22/master/assets/Schematic.JPG)
 
-![circuit diagram](https://raw.githubusercontent.com/edson98lg/LCD_Pic18f45k22/master/assets/front view.jpeg)
+![circuit diagram](https://raw.githubusercontent.com/edson98lg/LCD_Pic18f45k22/master/assets/front%20view.jpeg)
 
-![circuit diagram](https://raw.githubusercontent.com/edson98lg/LCD_Pic18f45k22/master/assets/Mini greenhouse view.jpeg)
+![circuit diagram](https://raw.githubusercontent.com/edson98lg/LCD_Pic18f45k22/master/assets/Mini%20greenhouse%20view.jpeg)
