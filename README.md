@@ -34,7 +34,7 @@ This is the mini greenhouse, it has two sensors, humidity and temperature, besid
 * 1 optocoupler
   
   
-## Expresiones de Gratitud 😊
-* Da las gracias públicamente 😊
-* Dona con Solana a esta dirección: `BGADeDwPhghunkZevrT1rxBfRTYFDQwhRABUWgX8EWGD`
-* Dona con ETH a esta dirección: `0x879e34c7Ae54A6A3936d7eD9A1c3E81Ae52C43D6`
+## Expressions of Gratitude 😊
+* Publicly thanks 😊
+* Donate with SOLANA to this address: `BGADeDwPhghunkZevrT1rxBfRTYFDQwhRABUWgX8EWGD`
+* Donate with ETH to this address: `0x879e34c7Ae54A6A3936d7eD9A1c3E81Ae52C4
